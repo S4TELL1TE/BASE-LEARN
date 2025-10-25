@@ -2,12 +2,12 @@ remix.ethereum.org
 
 https://era.guild.xyz/base/base-programs
 Base Learn NewComer
-  Deploying testnet - soulbound NFT
+  > Deploying testnet - soulbound NFT
   
 Base Learn Acolyte
-  Control Structures - soulbound NFT
-  Storage - soulbound NFT
-  Arrays - soulbound NFT
+  > Control Structures - soulbound NFT
+  > Storage - soulbound NFT
+  > Arrays - soulbound NFT
 
 Base Learn Consule
   

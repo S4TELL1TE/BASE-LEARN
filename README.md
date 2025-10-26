@@ -10,7 +10,7 @@ Base Learn Acolyte
   > Arrays - soulbound NFT
 
 Base Learn Consule
-  
+  > Inheritence (use submission CA) before deploy
 
 
 Base Learn Perfect

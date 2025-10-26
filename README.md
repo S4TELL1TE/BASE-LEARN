@@ -10,10 +10,14 @@ Base Learn Acolyte
   > Arrays - soulbound NFT
 
 Base Learn Consule
-  > Inheritence (use submission CA) before deploy
-
+  > Inheritence (use submission CA on remix) before deploy
+  > Mapping
+  > Structs
 
 Base Learn Perfect
+  > Haiku (use submission CA on remix) before deploy
+
+
 
 Base Learn Supreme
 
